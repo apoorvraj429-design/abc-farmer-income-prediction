@@ -1,0 +1,2741 @@
+{
+  "scopes": {
+    "All states": {
+      "n": 47948,
+      "median": 950000.0,
+      "mean": 1222307.2716067405,
+      "non_ag_median": 100000.0,
+      "below_benchmark_pct": 49.92908984733461,
+      "histogram": [
+        {
+          "band": "<5 lakh",
+          "count": 989
+        },
+        {
+          "band": "5\u201310 lakh",
+          "count": 24670
+        },
+        {
+          "band": "10\u201315 lakh",
+          "count": 13770
+        },
+        {
+          "band": "15\u201320 lakh",
+          "count": 4955
+        },
+        {
+          "band": "20\u201330 lakh",
+          "count": 2312
+        },
+        {
+          "band": "30\u201340 lakh",
+          "count": 451
+        },
+        {
+          "band": "40+ lakh",
+          "count": 801
+        }
+      ],
+      "land_bands": [
+        {
+          "band": "0\u20135",
+          "n": 14350,
+          "median": 800000.0
+        },
+        {
+          "band": "5\u201310",
+          "n": 19733,
+          "median": 900000.0
+        },
+        {
+          "band": "10\u201320",
+          "n": 11075,
+          "median": 1100000.0
+        },
+        {
+          "band": "20\u201340",
+          "n": 2492,
+          "median": 1546600.0
+        },
+        {
+          "band": "40+",
+          "n": 227,
+          "median": 2600000.0
+        }
+      ]
+    },
+    "ANDHRA PRADESH": {
+      "n": 3985,
+      "median": 1150000.0,
+      "mean": 1313913.1011292345,
+      "non_ag_median": 200000.0,
+      "below_benchmark_pct": 29.73651191969887,
+      "histogram": [
+        {
+          "band": "<5 lakh",
+          "count": 33
+        },
+        {
+          "band": "5\u201310 lakh",
+          "count": 1181
+        },
+        {
+          "band": "10\u201315 lakh",
+          "count": 1704
+        },
+        {
+          "band": "15\u201320 lakh",
+          "count": 747
+        },
+        {
+          "band": "20\u201330 lakh",
+          "count": 225
+        },
+        {
+          "band": "30\u201340 lakh",
+          "count": 67
+        },
+        {
+          "band": "40+ lakh",
+          "count": 28
+        }
+      ],
+      "land_bands": [
+        {
+          "band": "0\u20135",
+          "n": 634,
+          "median": 1000000.0
+        },
+        {
+          "band": "5\u201310",
+          "n": 2065,
+          "median": 1160000.0
+        },
+        {
+          "band": "10\u201320",
+          "n": 1191,
+          "median": 1200000.0
+        },
+        {
+          "band": "20\u201340",
+          "n": 85,
+          "median": 1116000.0
+        },
+        {
+          "band": "40+",
+          "n": 4,
+          "median": 3470000.0
+        }
+      ]
+    },
+    "ASSAM": {
+      "n": 41,
+      "median": 911200.0,
+      "mean": 925964.6341463415,
+      "non_ag_median": 200000.0,
+      "below_benchmark_pct": 60.97560975609756,
+      "histogram": [
+        {
+          "band": "<5 lakh",
+          "count": 0
+        },
+        {
+          "band": "5\u201310 lakh",
+          "count": 35
+        },
+        {
+          "band": "10\u201315 lakh",
+          "count": 5
+        },
+        {
+          "band": "15\u201320 lakh",
+          "count": 1
+        },
+        {
+          "band": "20\u201330 lakh",
+          "count": 0
+        },
+        {
+          "band": "30\u201340 lakh",
+          "count": 0
+        },
+        {
+          "band": "40+ lakh",
+          "count": 0
+        }
+      ],
+      "land_bands": [
+        {
+          "band": "0\u20135",
+          "n": 25,
+          "median": 950000.0
+        },
+        {
+          "band": "5\u201310",
+          "n": 16,
+          "median": 855000.0
+        }
+      ]
+    },
+    "BIHAR": {
+      "n": 1265,
+      "median": 700000.0,
+      "mean": 773668.9122529645,
+      "non_ag_median": 300000.0,
+      "below_benchmark_pct": 80.94861660079052,
+      "histogram": [
+        {
+          "band": "<5 lakh",
+          "count": 52
+        },
+        {
+          "band": "5\u201310 lakh",
+          "count": 1020
+        },
+        {
+          "band": "10\u201315 lakh",
+          "count": 169
+        },
+        {
+          "band": "15\u201320 lakh",
+          "count": 16
+        },
+        {
+          "band": "20\u201330 lakh",
+          "count": 6
+        },
+        {
+          "band": "30\u201340 lakh",
+          "count": 1
+        },
+        {
+          "band": "40+ lakh",
+          "count": 1
+        }
+      ],
+      "land_bands": [
+        {
+          "band": "0\u20135",
+          "n": 942,
+          "median": 662500.0
+        },
+        {
+          "band": "5\u201310",
+          "n": 294,
+          "median": 831220.0
+        },
+        {
+          "band": "10\u201320",
+          "n": 28,
+          "median": 800000.0
+        }
+      ]
+    },
+    "CHANDIGARH": {
+      "n": 21,
+      "median": 1075000.0,
+      "mean": 1441030.9523809524,
+      "non_ag_median": 0.0,
+      "below_benchmark_pct": 38.095238095238095,
+      "histogram": [
+        {
+          "band": "<5 lakh",
+          "count": 0
+        },
+        {
+          "band": "5\u201310 lakh",
+          "count": 10
+        },
+        {
+          "band": "10\u201315 lakh",
+          "count": 3
+        },
+        {
+          "band": "15\u201320 lakh",
+          "count": 2
+        },
+        {
+          "band": "20\u201330 lakh",
+          "count": 5
+        },
+        {
+          "band": "30\u201340 lakh",
+          "count": 1
+        },
+        {
+          "band": "40+ lakh",
+          "count": 0
+        }
+      ],
+      "land_bands": [
+        {
+          "band": "5\u201310",
+          "n": 12,
+          "median": 858750.0
+        },
+        {
+          "band": "10\u201320",
+          "n": 5,
+          "median": 1675000.0
+        },
+        {
+          "band": "20\u201340",
+          "n": 4,
+          "median": 2477500.0
+        }
+      ]
+    },
+    "CHATTISGARH": {
+      "n": 799,
+      "median": 850000.0,
+      "mean": 962170.5707133918,
+      "non_ag_median": 100000.0,
+      "below_benchmark_pct": 59.32415519399249,
+      "histogram": [
+        {
+          "band": "<5 lakh",
+          "count": 42
+        },
+        {
+          "band": "5\u201310 lakh",
+          "count": 486
+        },
+        {
+          "band": "10\u201315 lakh",
+          "count": 197
+        },
+        {
+          "band": "15\u201320 lakh",
+          "count": 54
+        },
+        {
+          "band": "20\u201330 lakh",
+          "count": 13
+        },
+        {
+          "band": "30\u201340 lakh",
+          "count": 3
+        },
+        {
+          "band": "40+ lakh",
+          "count": 4
+        }
+      ],
+      "land_bands": [
+        {
+          "band": "0\u20135",
+          "n": 210,
+          "median": 685000.0
+        },
+        {
+          "band": "5\u201310",
+          "n": 486,
+          "median": 859472.0
+        },
+        {
+          "band": "10\u201320",
+          "n": 98,
+          "median": 1410000.0
+        },
+        {
+          "band": "20\u201340",
+          "n": 4,
+          "median": 2772500.0
+        },
+        {
+          "band": "40+",
+          "n": 1,
+          "median": 950000.0
+        }
+      ]
+    },
+    "GUJARAT": {
+      "n": 546,
+      "median": 700000.0,
+      "mean": 787333.0531135531,
+      "non_ag_median": 150000.0,
+      "below_benchmark_pct": 80.95238095238095,
+      "histogram": [
+        {
+          "band": "<5 lakh",
+          "count": 47
+        },
+        {
+          "band": "5\u201310 lakh",
+          "count": 403
+        },
+        {
+          "band": "10\u201315 lakh",
+          "count": 77
+        },
+        {
+          "band": "15\u201320 lakh",
+          "count": 15
+        },
+        {
+          "band": "20\u201330 lakh",
+          "count": 2
+        },
+        {
+          "band": "30\u201340 lakh",
+          "count": 0
+        },
+        {
+          "band": "40+ lakh",
+          "count": 2
+        }
+      ],
+      "land_bands": [
+        {
+          "band": "0\u20135",
+          "n": 194,
+          "median": 650000.0
+        },
+        {
+          "band": "5\u201310",
+          "n": 201,
+          "median": 710000.0
+        },
+        {
+          "band": "10\u201320",
+          "n": 121,
+          "median": 780000.0
+        },
+        {
+          "band": "20\u201340",
+          "n": 28,
+          "median": 935000.0
+        },
+        {
+          "band": "40+",
+          "n": 2,
+          "median": 1250000.0
+        }
+      ]
+    },
+    "HARYANA": {
+      "n": 980,
+      "median": 1308937.5,
+      "mean": 1655701.218367347,
+      "non_ag_median": 106750.0,
+      "below_benchmark_pct": 21.73469387755102,
+      "histogram": [
+        {
+          "band": "<5 lakh",
+          "count": 10
+        },
+        {
+          "band": "5\u201310 lakh",
+          "count": 236
+        },
+        {
+          "band": "10\u201315 lakh",
+          "count": 325
+        },
+        {
+          "band": "15\u201320 lakh",
+          "count": 209
+        },
+        {
+          "band": "20\u201330 lakh",
+          "count": 119
+        },
+        {
+          "band": "30\u201340 lakh",
+          "count": 37
+        },
+        {
+          "band": "40+ lakh",
+          "count": 44
+        }
+      ],
+      "land_bands": [
+        {
+          "band": "0\u20135",
+          "n": 114,
+          "median": 857000.0
+        },
+        {
+          "band": "5\u201310",
+          "n": 321,
+          "median": 1017250.0
+        },
+        {
+          "band": "10\u201320",
+          "n": 401,
+          "median": 1500000.0
+        },
+        {
+          "band": "20\u201340",
+          "n": 122,
+          "median": 2555000.0
+        },
+        {
+          "band": "40+",
+          "n": 21,
+          "median": 5023500.0
+        }
+      ]
+    },
+    "JHARKHAND": {
+      "n": 211,
+      "median": 736000.0,
+      "mean": 775048.3412322275,
+      "non_ag_median": 332000.0,
+      "below_benchmark_pct": 89.57345971563981,
+      "histogram": [
+        {
+          "band": "<5 lakh",
+          "count": 1
+        },
+        {
+          "band": "5\u201310 lakh",
+          "count": 198
+        },
+        {
+          "band": "10\u201315 lakh",
+          "count": 11
+        },
+        {
+          "band": "15\u201320 lakh",
+          "count": 0
+        },
+        {
+          "band": "20\u201330 lakh",
+          "count": 0
+        },
+        {
+          "band": "30\u201340 lakh",
+          "count": 1
+        },
+        {
+          "band": "40+ lakh",
+          "count": 0
+        }
+      ],
+      "land_bands": [
+        {
+          "band": "0\u20135",
+          "n": 129,
+          "median": 700000.0
+        },
+        {
+          "band": "5\u201310",
+          "n": 71,
+          "median": 750000.0
+        },
+        {
+          "band": "10\u201320",
+          "n": 9,
+          "median": 950000.0
+        },
+        {
+          "band": "20\u201340",
+          "n": 1,
+          "median": 1470000.0
+        },
+        {
+          "band": "40+",
+          "n": 1,
+          "median": 3500000.0
+        }
+      ]
+    },
+    "KARNATAKA": {
+      "n": 6742,
+      "median": 1250000.0,
+      "mean": 1443891.2413230496,
+      "non_ag_median": 100000.0,
+      "below_benchmark_pct": 24.428952832987243,
+      "histogram": [
+        {
+          "band": "<5 lakh",
+          "count": 20
+        },
+        {
+          "band": "5\u201310 lakh",
+          "count": 1817
+        },
+        {
+          "band": "10\u201315 lakh",
+          "count": 2753
+        },
+        {
+          "band": "15\u201320 lakh",
+          "count": 1166
+        },
+        {
+          "band": "20\u201330 lakh",
+          "count": 770
+        },
+        {
+          "band": "30\u201340 lakh",
+          "count": 129
+        },
+        {
+          "band": "40+ lakh",
+          "count": 87
+        }
+      ],
+      "land_bands": [
+        {
+          "band": "0\u20135",
+          "n": 2742,
+          "median": 1200000.0
+        },
+        {
+          "band": "5\u201310",
+          "n": 1974,
+          "median": 1200000.0
+        },
+        {
+          "band": "10\u201320",
+          "n": 1295,
+          "median": 1300000.0
+        },
+        {
+          "band": "20\u201340",
+          "n": 668,
+          "median": 1784750.0
+        },
+        {
+          "band": "40+",
+          "n": 50,
+          "median": 3395312.5
+        }
+      ]
+    },
+    "MADHYA PRADESH": {
+      "n": 14315,
+      "median": 800000.0,
+      "mean": 1244195.6009779952,
+      "non_ag_median": 100000.0,
+      "below_benchmark_pct": 65.02270345791128,
+      "histogram": [
+        {
+          "band": "<5 lakh",
+          "count": 394
+        },
+        {
+          "band": "5\u201310 lakh",
+          "count": 9381
+        },
+        {
+          "band": "10\u201315 lakh",
+          "count": 2962
+        },
+        {
+          "band": "15\u201320 lakh",
+          "count": 694
+        },
+        {
+          "band": "20\u201330 lakh",
+          "count": 374
+        },
+        {
+          "band": "30\u201340 lakh",
+          "count": 76
+        },
+        {
+          "band": "40+ lakh",
+          "count": 434
+        }
+      ],
+      "land_bands": [
+        {
+          "band": "0\u20135",
+          "n": 3345,
+          "median": 650000.0
+        },
+        {
+          "band": "5\u201310",
+          "n": 6823,
+          "median": 760000.0
+        },
+        {
+          "band": "10\u201320",
+          "n": 3701,
+          "median": 980000.0
+        },
+        {
+          "band": "20\u201340",
+          "n": 394,
+          "median": 1307650.0
+        },
+        {
+          "band": "40+",
+          "n": 33,
+          "median": 1800000.0
+        }
+      ]
+    },
+    "MAHARASHTRA": {
+      "n": 7830,
+      "median": 1000000.0,
+      "mean": 1212191.19348659,
+      "non_ag_median": 100000.0,
+      "below_benchmark_pct": 40.54916985951469,
+      "histogram": [
+        {
+          "band": "<5 lakh",
+          "count": 69
+        },
+        {
+          "band": "5\u201310 lakh",
+          "count": 3676
+        },
+        {
+          "band": "10\u201315 lakh",
+          "count": 2394
+        },
+        {
+          "band": "15\u201320 lakh",
+          "count": 1138
+        },
+        {
+          "band": "20\u201330 lakh",
+          "count": 439
+        },
+        {
+          "band": "30\u201340 lakh",
+          "count": 57
+        },
+        {
+          "band": "40+ lakh",
+          "count": 57
+        }
+      ],
+      "land_bands": [
+        {
+          "band": "0\u20135",
+          "n": 2537,
+          "median": 879000.0
+        },
+        {
+          "band": "5\u201310",
+          "n": 1995,
+          "median": 975000.0
+        },
+        {
+          "band": "10\u201320",
+          "n": 2250,
+          "median": 1100000.0
+        },
+        {
+          "band": "20\u201340",
+          "n": 955,
+          "median": 1500000.0
+        },
+        {
+          "band": "40+",
+          "n": 82,
+          "median": 1979500.0
+        }
+      ]
+    },
+    "ODISHA": {
+      "n": 889,
+      "median": 825800.0,
+      "mean": 1099104.212598425,
+      "non_ag_median": 400000.0,
+      "below_benchmark_pct": 60.404949381327334,
+      "histogram": [
+        {
+          "band": "<5 lakh",
+          "count": 35
+        },
+        {
+          "band": "5\u201310 lakh",
+          "count": 523
+        },
+        {
+          "band": "10\u201315 lakh",
+          "count": 225
+        },
+        {
+          "band": "15\u201320 lakh",
+          "count": 59
+        },
+        {
+          "band": "20\u201330 lakh",
+          "count": 21
+        },
+        {
+          "band": "30\u201340 lakh",
+          "count": 9
+        },
+        {
+          "band": "40+ lakh",
+          "count": 17
+        }
+      ],
+      "land_bands": [
+        {
+          "band": "0\u20135",
+          "n": 340,
+          "median": 712500.0
+        },
+        {
+          "band": "5\u201310",
+          "n": 270,
+          "median": 873000.0
+        },
+        {
+          "band": "10\u201320",
+          "n": 223,
+          "median": 1028000.0
+        },
+        {
+          "band": "20\u201340",
+          "n": 48,
+          "median": 1331250.0
+        },
+        {
+          "band": "40+",
+          "n": 4,
+          "median": 1312500.0
+        }
+      ]
+    },
+    "PUNJAB": {
+      "n": 243,
+      "median": 1563750.0,
+      "mean": 1899373.2510288067,
+      "non_ag_median": 120000.0,
+      "below_benchmark_pct": 18.51851851851852,
+      "histogram": [
+        {
+          "band": "<5 lakh",
+          "count": 3
+        },
+        {
+          "band": "5\u201310 lakh",
+          "count": 47
+        },
+        {
+          "band": "10\u201315 lakh",
+          "count": 60
+        },
+        {
+          "band": "15\u201320 lakh",
+          "count": 51
+        },
+        {
+          "band": "20\u201330 lakh",
+          "count": 48
+        },
+        {
+          "band": "30\u201340 lakh",
+          "count": 19
+        },
+        {
+          "band": "40+ lakh",
+          "count": 15
+        }
+      ],
+      "land_bands": [
+        {
+          "band": "0\u20135",
+          "n": 32,
+          "median": 821000.0
+        },
+        {
+          "band": "5\u201310",
+          "n": 41,
+          "median": 1024000.0
+        },
+        {
+          "band": "10\u201320",
+          "n": 93,
+          "median": 1485000.0
+        },
+        {
+          "band": "20\u201340",
+          "n": 55,
+          "median": 2500000.0
+        },
+        {
+          "band": "40+",
+          "n": 22,
+          "median": 4114125.0
+        }
+      ]
+    },
+    "RAJASTHAN": {
+      "n": 2,
+      "median": 2100000.0,
+      "mean": 2100000.0,
+      "non_ag_median": 565000.0,
+      "below_benchmark_pct": 0.0,
+      "histogram": [
+        {
+          "band": "<5 lakh",
+          "count": 0
+        },
+        {
+          "band": "5\u201310 lakh",
+          "count": 0
+        },
+        {
+          "band": "10\u201315 lakh",
+          "count": 1
+        },
+        {
+          "band": "15\u201320 lakh",
+          "count": 0
+        },
+        {
+          "band": "20\u201330 lakh",
+          "count": 0
+        },
+        {
+          "band": "30\u201340 lakh",
+          "count": 1
+        },
+        {
+          "band": "40+ lakh",
+          "count": 0
+        }
+      ],
+      "land_bands": [
+        {
+          "band": "0\u20135",
+          "n": 1,
+          "median": 1200000.0
+        },
+        {
+          "band": "5\u201310",
+          "n": 1,
+          "median": 3000000.0
+        }
+      ]
+    },
+    "TELANGANA": {
+      "n": 7097,
+      "median": 950000.0,
+      "mean": 1158173.6335071158,
+      "non_ag_median": 0.0,
+      "below_benchmark_pct": 49.9365929265887,
+      "histogram": [
+        {
+          "band": "<5 lakh",
+          "count": 145
+        },
+        {
+          "band": "5\u201310 lakh",
+          "count": 3580
+        },
+        {
+          "band": "10\u201315 lakh",
+          "count": 2318
+        },
+        {
+          "band": "15\u201320 lakh",
+          "count": 667
+        },
+        {
+          "band": "20\u201330 lakh",
+          "count": 244
+        },
+        {
+          "band": "30\u201340 lakh",
+          "count": 47
+        },
+        {
+          "band": "40+ lakh",
+          "count": 96
+        }
+      ],
+      "land_bands": [
+        {
+          "band": "0\u20135",
+          "n": 1450,
+          "median": 780000.0
+        },
+        {
+          "band": "5\u201310",
+          "n": 4094,
+          "median": 1000000.0
+        },
+        {
+          "band": "10\u201320",
+          "n": 1433,
+          "median": 1100000.0
+        },
+        {
+          "band": "20\u201340",
+          "n": 104,
+          "median": 1400000.0
+        },
+        {
+          "band": "40+",
+          "n": 6,
+          "median": 1450000.0
+        }
+      ]
+    },
+    "UTTAR PRADESH": {
+      "n": 2390,
+      "median": 705000.0,
+      "mean": 831023.1736401673,
+      "non_ag_median": 250000.0,
+      "below_benchmark_pct": 77.44769874476988,
+      "histogram": [
+        {
+          "band": "<5 lakh",
+          "count": 130
+        },
+        {
+          "band": "5\u201310 lakh",
+          "count": 1771
+        },
+        {
+          "band": "10\u201315 lakh",
+          "count": 373
+        },
+        {
+          "band": "15\u201320 lakh",
+          "count": 80
+        },
+        {
+          "band": "20\u201330 lakh",
+          "count": 22
+        },
+        {
+          "band": "30\u201340 lakh",
+          "count": 2
+        },
+        {
+          "band": "40+ lakh",
+          "count": 12
+        }
+      ],
+      "land_bands": [
+        {
+          "band": "0\u20135",
+          "n": 1120,
+          "median": 680000.0
+        },
+        {
+          "band": "5\u201310",
+          "n": 1013,
+          "median": 750000.0
+        },
+        {
+          "band": "10\u201320",
+          "n": 226,
+          "median": 850000.0
+        },
+        {
+          "band": "20\u201340",
+          "n": 24,
+          "median": 930000.0
+        },
+        {
+          "band": "40+",
+          "n": 1,
+          "median": 1200000.0
+        }
+      ]
+    },
+    "WEST BENGAL": {
+      "n": 592,
+      "median": 960500.0,
+      "mean": 1105001.0489864864,
+      "non_ag_median": 320000.0,
+      "below_benchmark_pct": 46.11486486486486,
+      "histogram": [
+        {
+          "band": "<5 lakh",
+          "count": 8
+        },
+        {
+          "band": "5\u201310 lakh",
+          "count": 306
+        },
+        {
+          "band": "10\u201315 lakh",
+          "count": 193
+        },
+        {
+          "band": "15\u201320 lakh",
+          "count": 56
+        },
+        {
+          "band": "20\u201330 lakh",
+          "count": 24
+        },
+        {
+          "band": "30\u201340 lakh",
+          "count": 1
+        },
+        {
+          "band": "40+ lakh",
+          "count": 4
+        }
+      ],
+      "land_bands": [
+        {
+          "band": "0\u20135",
+          "n": 535,
+          "median": 950000.0
+        },
+        {
+          "band": "5\u201310",
+          "n": 56,
+          "median": 1650000.0
+        },
+        {
+          "band": "10\u201320",
+          "n": 1,
+          "median": 2578000.0
+        }
+      ]
+    }
+  },
+  "states": [
+    {
+      "state": "Andhra Pradesh",
+      "n": 3985,
+      "median": 1150000.0,
+      "mean": 1313913.1011292345
+    },
+    {
+      "state": "Assam",
+      "n": 41,
+      "median": 911200.0,
+      "mean": 925964.6341463415
+    },
+    {
+      "state": "Bihar",
+      "n": 1265,
+      "median": 700000.0,
+      "mean": 773668.9122529645
+    },
+    {
+      "state": "Chandigarh",
+      "n": 21,
+      "median": 1075000.0,
+      "mean": 1441030.9523809524
+    },
+    {
+      "state": "Chattisgarh",
+      "n": 799,
+      "median": 850000.0,
+      "mean": 962170.5707133918
+    },
+    {
+      "state": "Gujarat",
+      "n": 546,
+      "median": 700000.0,
+      "mean": 787333.0531135531
+    },
+    {
+      "state": "Haryana",
+      "n": 980,
+      "median": 1308937.5,
+      "mean": 1655701.218367347
+    },
+    {
+      "state": "Jharkhand",
+      "n": 211,
+      "median": 736000.0,
+      "mean": 775048.3412322275
+    },
+    {
+      "state": "Karnataka",
+      "n": 6742,
+      "median": 1250000.0,
+      "mean": 1443891.2413230496
+    },
+    {
+      "state": "Madhya Pradesh",
+      "n": 14315,
+      "median": 800000.0,
+      "mean": 1244195.6009779952
+    },
+    {
+      "state": "Maharashtra",
+      "n": 7830,
+      "median": 1000000.0,
+      "mean": 1212191.19348659
+    },
+    {
+      "state": "Odisha",
+      "n": 889,
+      "median": 825800.0,
+      "mean": 1099104.212598425
+    },
+    {
+      "state": "Punjab",
+      "n": 243,
+      "median": 1563750.0,
+      "mean": 1899373.2510288067
+    },
+    {
+      "state": "Rajasthan",
+      "n": 2,
+      "median": 2100000.0,
+      "mean": 2100000.0
+    },
+    {
+      "state": "Telangana",
+      "n": 7097,
+      "median": 950000.0,
+      "mean": 1158173.6335071158
+    },
+    {
+      "state": "Uttar Pradesh",
+      "n": 2390,
+      "median": 705000.0,
+      "mean": 831023.1736401673
+    },
+    {
+      "state": "West Bengal",
+      "n": 592,
+      "median": 960500.0,
+      "mean": 1105001.0489864864
+    }
+  ],
+  "profiles": [
+    {
+      "name": "Profile A",
+      "inputs": {
+        "state": "MADHYA PRADESH",
+        "land_area": 6.0,
+        "non_ag_income": 60000.0,
+        "mandi_distance": 11.6,
+        "kharif_rainfall": 1553.35,
+        "rabi_rainfall": 101.44,
+        "cropping_density": 62.88,
+        "agri_score": 29.67
+      }
+    },
+    {
+      "name": "Profile B",
+      "inputs": {
+        "state": "MAHARASHTRA",
+        "land_area": 10.0,
+        "non_ag_income": 100000.0,
+        "mandi_distance": 11.7,
+        "kharif_rainfall": 1449.69,
+        "rabi_rainfall": 64.33,
+        "cropping_density": 55.37,
+        "agri_score": 27.18
+      }
+    },
+    {
+      "name": "Profile C",
+      "inputs": {
+        "state": "KARNATAKA",
+        "land_area": 9.6,
+        "non_ag_income": 160000.0,
+        "mandi_distance": 11.6,
+        "kharif_rainfall": 1031.34,
+        "rabi_rainfall": 340.98,
+        "cropping_density": 56.56,
+        "agri_score": 21.25
+      }
+    }
+  ],
+  "density": [
+    {
+      "actual_band": "0\u20132",
+      "predicted_band": "6\u20138",
+      "count": 2
+    },
+    {
+      "actual_band": "0\u20132",
+      "predicted_band": "8\u201310",
+      "count": 3
+    },
+    {
+      "actual_band": "0\u20132",
+      "predicted_band": "10\u201312",
+      "count": 2
+    },
+    {
+      "actual_band": "0\u20132",
+      "predicted_band": "12\u201314",
+      "count": 1
+    },
+    {
+      "actual_band": "2\u20134",
+      "predicted_band": "2\u20134",
+      "count": 1
+    },
+    {
+      "actual_band": "2\u20134",
+      "predicted_band": "4\u20136",
+      "count": 9
+    },
+    {
+      "actual_band": "2\u20134",
+      "predicted_band": "6\u20138",
+      "count": 14
+    },
+    {
+      "actual_band": "2\u20134",
+      "predicted_band": "8\u201310",
+      "count": 2
+    },
+    {
+      "actual_band": "2\u20134",
+      "predicted_band": "10\u201312",
+      "count": 1
+    },
+    {
+      "actual_band": "2\u20134",
+      "predicted_band": "12\u201314",
+      "count": 1
+    },
+    {
+      "actual_band": "4\u20136",
+      "predicted_band": "2\u20134",
+      "count": 2
+    },
+    {
+      "actual_band": "4\u20136",
+      "predicted_band": "4\u20136",
+      "count": 84
+    },
+    {
+      "actual_band": "4\u20136",
+      "predicted_band": "6\u20138",
+      "count": 422
+    },
+    {
+      "actual_band": "4\u20136",
+      "predicted_band": "8\u201310",
+      "count": 329
+    },
+    {
+      "actual_band": "4\u20136",
+      "predicted_band": "10\u201312",
+      "count": 53
+    },
+    {
+      "actual_band": "4\u20136",
+      "predicted_band": "12\u201314",
+      "count": 21
+    },
+    {
+      "actual_band": "4\u20136",
+      "predicted_band": "14\u201316",
+      "count": 3
+    },
+    {
+      "actual_band": "4\u20136",
+      "predicted_band": "25\u201330",
+      "count": 1
+    },
+    {
+      "actual_band": "6\u20138",
+      "predicted_band": "4\u20136",
+      "count": 80
+    },
+    {
+      "actual_band": "6\u20138",
+      "predicted_band": "6\u20138",
+      "count": 674
+    },
+    {
+      "actual_band": "6\u20138",
+      "predicted_band": "8\u201310",
+      "count": 995
+    },
+    {
+      "actual_band": "6\u20138",
+      "predicted_band": "10\u201312",
+      "count": 417
+    },
+    {
+      "actual_band": "6\u20138",
+      "predicted_band": "12\u201314",
+      "count": 144
+    },
+    {
+      "actual_band": "6\u20138",
+      "predicted_band": "14\u201316",
+      "count": 41
+    },
+    {
+      "actual_band": "6\u20138",
+      "predicted_band": "16\u201318",
+      "count": 16
+    },
+    {
+      "actual_band": "6\u20138",
+      "predicted_band": "18\u201320",
+      "count": 3
+    },
+    {
+      "actual_band": "6\u20138",
+      "predicted_band": "20\u201325",
+      "count": 3
+    },
+    {
+      "actual_band": "8\u201310",
+      "predicted_band": "4\u20136",
+      "count": 27
+    },
+    {
+      "actual_band": "8\u201310",
+      "predicted_band": "6\u20138",
+      "count": 320
+    },
+    {
+      "actual_band": "8\u201310",
+      "predicted_band": "8\u201310",
+      "count": 715
+    },
+    {
+      "actual_band": "8\u201310",
+      "predicted_band": "10\u201312",
+      "count": 589
+    },
+    {
+      "actual_band": "8\u201310",
+      "predicted_band": "12\u201314",
+      "count": 227
+    },
+    {
+      "actual_band": "8\u201310",
+      "predicted_band": "14\u201316",
+      "count": 83
+    },
+    {
+      "actual_band": "8\u201310",
+      "predicted_band": "16\u201318",
+      "count": 45
+    },
+    {
+      "actual_band": "8\u201310",
+      "predicted_band": "18\u201320",
+      "count": 13
+    },
+    {
+      "actual_band": "8\u201310",
+      "predicted_band": "20\u201325",
+      "count": 5
+    },
+    {
+      "actual_band": "8\u201310",
+      "predicted_band": "25\u201330",
+      "count": 1
+    },
+    {
+      "actual_band": "10\u201312",
+      "predicted_band": "2\u20134",
+      "count": 1
+    },
+    {
+      "actual_band": "10\u201312",
+      "predicted_band": "4\u20136",
+      "count": 8
+    },
+    {
+      "actual_band": "10\u201312",
+      "predicted_band": "6\u20138",
+      "count": 106
+    },
+    {
+      "actual_band": "10\u201312",
+      "predicted_band": "8\u201310",
+      "count": 272
+    },
+    {
+      "actual_band": "10\u201312",
+      "predicted_band": "10\u201312",
+      "count": 382
+    },
+    {
+      "actual_band": "10\u201312",
+      "predicted_band": "12\u201314",
+      "count": 328
+    },
+    {
+      "actual_band": "10\u201312",
+      "predicted_band": "14\u201316",
+      "count": 91
+    },
+    {
+      "actual_band": "10\u201312",
+      "predicted_band": "16\u201318",
+      "count": 46
+    },
+    {
+      "actual_band": "10\u201312",
+      "predicted_band": "18\u201320",
+      "count": 10
+    },
+    {
+      "actual_band": "10\u201312",
+      "predicted_band": "20\u201325",
+      "count": 11
+    },
+    {
+      "actual_band": "10\u201312",
+      "predicted_band": "25\u201330",
+      "count": 1
+    },
+    {
+      "actual_band": "10\u201312",
+      "predicted_band": "30\u201340",
+      "count": 1
+    },
+    {
+      "actual_band": "12\u201314",
+      "predicted_band": "4\u20136",
+      "count": 3
+    },
+    {
+      "actual_band": "12\u201314",
+      "predicted_band": "6\u20138",
+      "count": 52
+    },
+    {
+      "actual_band": "12\u201314",
+      "predicted_band": "8\u201310",
+      "count": 187
+    },
+    {
+      "actual_band": "12\u201314",
+      "predicted_band": "10\u201312",
+      "count": 226
+    },
+    {
+      "actual_band": "12\u201314",
+      "predicted_band": "12\u201314",
+      "count": 236
+    },
+    {
+      "actual_band": "12\u201314",
+      "predicted_band": "14\u201316",
+      "count": 106
+    },
+    {
+      "actual_band": "12\u201314",
+      "predicted_band": "16\u201318",
+      "count": 63
+    },
+    {
+      "actual_band": "12\u201314",
+      "predicted_band": "18\u201320",
+      "count": 19
+    },
+    {
+      "actual_band": "12\u201314",
+      "predicted_band": "20\u201325",
+      "count": 17
+    },
+    {
+      "actual_band": "12\u201314",
+      "predicted_band": "25\u201330",
+      "count": 4
+    },
+    {
+      "actual_band": "14\u201316",
+      "predicted_band": "4\u20136",
+      "count": 1
+    },
+    {
+      "actual_band": "14\u201316",
+      "predicted_band": "6\u20138",
+      "count": 31
+    },
+    {
+      "actual_band": "14\u201316",
+      "predicted_band": "8\u201310",
+      "count": 83
+    },
+    {
+      "actual_band": "14\u201316",
+      "predicted_band": "10\u201312",
+      "count": 152
+    },
+    {
+      "actual_band": "14\u201316",
+      "predicted_band": "12\u201314",
+      "count": 195
+    },
+    {
+      "actual_band": "14\u201316",
+      "predicted_band": "14\u201316",
+      "count": 100
+    },
+    {
+      "actual_band": "14\u201316",
+      "predicted_band": "16\u201318",
+      "count": 74
+    },
+    {
+      "actual_band": "14\u201316",
+      "predicted_band": "18\u201320",
+      "count": 18
+    },
+    {
+      "actual_band": "14\u201316",
+      "predicted_band": "20\u201325",
+      "count": 23
+    },
+    {
+      "actual_band": "14\u201316",
+      "predicted_band": "25\u201330",
+      "count": 3
+    },
+    {
+      "actual_band": "16\u201318",
+      "predicted_band": "4\u20136",
+      "count": 2
+    },
+    {
+      "actual_band": "16\u201318",
+      "predicted_band": "6\u20138",
+      "count": 25
+    },
+    {
+      "actual_band": "16\u201318",
+      "predicted_band": "8\u201310",
+      "count": 47
+    },
+    {
+      "actual_band": "16\u201318",
+      "predicted_band": "10\u201312",
+      "count": 102
+    },
+    {
+      "actual_band": "16\u201318",
+      "predicted_band": "12\u201314",
+      "count": 87
+    },
+    {
+      "actual_band": "16\u201318",
+      "predicted_band": "14\u201316",
+      "count": 49
+    },
+    {
+      "actual_band": "16\u201318",
+      "predicted_band": "16\u201318",
+      "count": 53
+    },
+    {
+      "actual_band": "16\u201318",
+      "predicted_band": "18\u201320",
+      "count": 36
+    },
+    {
+      "actual_band": "16\u201318",
+      "predicted_band": "20\u201325",
+      "count": 10
+    },
+    {
+      "actual_band": "16\u201318",
+      "predicted_band": "25\u201330",
+      "count": 5
+    },
+    {
+      "actual_band": "16\u201318",
+      "predicted_band": "30\u201340",
+      "count": 2
+    },
+    {
+      "actual_band": "18\u201320",
+      "predicted_band": "6\u20138",
+      "count": 6
+    },
+    {
+      "actual_band": "18\u201320",
+      "predicted_band": "8\u201310",
+      "count": 33
+    },
+    {
+      "actual_band": "18\u201320",
+      "predicted_band": "10\u201312",
+      "count": 43
+    },
+    {
+      "actual_band": "18\u201320",
+      "predicted_band": "12\u201314",
+      "count": 63
+    },
+    {
+      "actual_band": "18\u201320",
+      "predicted_band": "14\u201316",
+      "count": 31
+    },
+    {
+      "actual_band": "18\u201320",
+      "predicted_band": "16\u201318",
+      "count": 20
+    },
+    {
+      "actual_band": "18\u201320",
+      "predicted_band": "18\u201320",
+      "count": 23
+    },
+    {
+      "actual_band": "18\u201320",
+      "predicted_band": "20\u201325",
+      "count": 9
+    },
+    {
+      "actual_band": "18\u201320",
+      "predicted_band": "25\u201330",
+      "count": 11
+    },
+    {
+      "actual_band": "18\u201320",
+      "predicted_band": "30\u201340",
+      "count": 3
+    },
+    {
+      "actual_band": "20\u201325",
+      "predicted_band": "6\u20138",
+      "count": 10
+    },
+    {
+      "actual_band": "20\u201325",
+      "predicted_band": "8\u201310",
+      "count": 37
+    },
+    {
+      "actual_band": "20\u201325",
+      "predicted_band": "10\u201312",
+      "count": 46
+    },
+    {
+      "actual_band": "20\u201325",
+      "predicted_band": "12\u201314",
+      "count": 73
+    },
+    {
+      "actual_band": "20\u201325",
+      "predicted_band": "14\u201316",
+      "count": 46
+    },
+    {
+      "actual_band": "20\u201325",
+      "predicted_band": "16\u201318",
+      "count": 50
+    },
+    {
+      "actual_band": "20\u201325",
+      "predicted_band": "18\u201320",
+      "count": 35
+    },
+    {
+      "actual_band": "20\u201325",
+      "predicted_band": "20\u201325",
+      "count": 20
+    },
+    {
+      "actual_band": "20\u201325",
+      "predicted_band": "25\u201330",
+      "count": 6
+    },
+    {
+      "actual_band": "20\u201325",
+      "predicted_band": "30\u201340",
+      "count": 6
+    },
+    {
+      "actual_band": "25\u201330",
+      "predicted_band": "6\u20138",
+      "count": 3
+    },
+    {
+      "actual_band": "25\u201330",
+      "predicted_band": "8\u201310",
+      "count": 15
+    },
+    {
+      "actual_band": "25\u201330",
+      "predicted_band": "10\u201312",
+      "count": 12
+    },
+    {
+      "actual_band": "25\u201330",
+      "predicted_band": "12\u201314",
+      "count": 31
+    },
+    {
+      "actual_band": "25\u201330",
+      "predicted_band": "14\u201316",
+      "count": 12
+    },
+    {
+      "actual_band": "25\u201330",
+      "predicted_band": "16\u201318",
+      "count": 14
+    },
+    {
+      "actual_band": "25\u201330",
+      "predicted_band": "18\u201320",
+      "count": 14
+    },
+    {
+      "actual_band": "25\u201330",
+      "predicted_band": "20\u201325",
+      "count": 10
+    },
+    {
+      "actual_band": "25\u201330",
+      "predicted_band": "25\u201330",
+      "count": 23
+    },
+    {
+      "actual_band": "25\u201330",
+      "predicted_band": "30\u201340",
+      "count": 3
+    },
+    {
+      "actual_band": "30\u201340",
+      "predicted_band": "6\u20138",
+      "count": 6
+    },
+    {
+      "actual_band": "30\u201340",
+      "predicted_band": "8\u201310",
+      "count": 7
+    },
+    {
+      "actual_band": "30\u201340",
+      "predicted_band": "10\u201312",
+      "count": 8
+    },
+    {
+      "actual_band": "30\u201340",
+      "predicted_band": "12\u201314",
+      "count": 11
+    },
+    {
+      "actual_band": "30\u201340",
+      "predicted_band": "14\u201316",
+      "count": 16
+    },
+    {
+      "actual_band": "30\u201340",
+      "predicted_band": "16\u201318",
+      "count": 12
+    },
+    {
+      "actual_band": "30\u201340",
+      "predicted_band": "18\u201320",
+      "count": 8
+    },
+    {
+      "actual_band": "30\u201340",
+      "predicted_band": "20\u201325",
+      "count": 17
+    },
+    {
+      "actual_band": "30\u201340",
+      "predicted_band": "25\u201330",
+      "count": 3
+    },
+    {
+      "actual_band": "30\u201340",
+      "predicted_band": "30\u201340",
+      "count": 3
+    },
+    {
+      "actual_band": "30\u201340",
+      "predicted_band": "40\u201360",
+      "count": 3
+    },
+    {
+      "actual_band": "40\u201360",
+      "predicted_band": "4\u20136",
+      "count": 1
+    },
+    {
+      "actual_band": "40\u201360",
+      "predicted_band": "8\u201310",
+      "count": 2
+    },
+    {
+      "actual_band": "40\u201360",
+      "predicted_band": "10\u201312",
+      "count": 4
+    },
+    {
+      "actual_band": "40\u201360",
+      "predicted_band": "12\u201314",
+      "count": 5
+    },
+    {
+      "actual_band": "40\u201360",
+      "predicted_band": "14\u201316",
+      "count": 4
+    },
+    {
+      "actual_band": "40\u201360",
+      "predicted_band": "16\u201318",
+      "count": 1
+    },
+    {
+      "actual_band": "40\u201360",
+      "predicted_band": "18\u201320",
+      "count": 4
+    },
+    {
+      "actual_band": "40\u201360",
+      "predicted_band": "20\u201325",
+      "count": 4
+    },
+    {
+      "actual_band": "40\u201360",
+      "predicted_band": "25\u201330",
+      "count": 7
+    },
+    {
+      "actual_band": "40\u201360",
+      "predicted_band": "30\u201340",
+      "count": 2
+    },
+    {
+      "actual_band": "40\u201360",
+      "predicted_band": "40\u201360",
+      "count": 21
+    },
+    {
+      "actual_band": "40\u201360",
+      "predicted_band": "60\u2013100",
+      "count": 6
+    },
+    {
+      "actual_band": "60\u2013100",
+      "predicted_band": "6\u20138",
+      "count": 1
+    },
+    {
+      "actual_band": "60\u2013100",
+      "predicted_band": "8\u201310",
+      "count": 10
+    },
+    {
+      "actual_band": "60\u2013100",
+      "predicted_band": "14\u201316",
+      "count": 3
+    },
+    {
+      "actual_band": "60\u2013100",
+      "predicted_band": "16\u201318",
+      "count": 2
+    },
+    {
+      "actual_band": "60\u2013100",
+      "predicted_band": "20\u201325",
+      "count": 1
+    },
+    {
+      "actual_band": "60\u2013100",
+      "predicted_band": "25\u201330",
+      "count": 2
+    },
+    {
+      "actual_band": "60\u2013100",
+      "predicted_band": "30\u201340",
+      "count": 1
+    },
+    {
+      "actual_band": "60\u2013100",
+      "predicted_band": "40\u201360",
+      "count": 3
+    },
+    {
+      "actual_band": "60\u2013100",
+      "predicted_band": "60\u2013100",
+      "count": 17
+    },
+    {
+      "actual_band": "60\u2013100",
+      "predicted_band": "100\u20131000",
+      "count": 3
+    },
+    {
+      "actual_band": "100\u20131000",
+      "predicted_band": "16\u201318",
+      "count": 1
+    },
+    {
+      "actual_band": "100\u20131000",
+      "predicted_band": "25\u201330",
+      "count": 3
+    },
+    {
+      "actual_band": "100\u20131000",
+      "predicted_band": "40\u201360",
+      "count": 2
+    },
+    {
+      "actual_band": "100\u20131000",
+      "predicted_band": "60\u2013100",
+      "count": 1
+    },
+    {
+      "actual_band": "100\u20131000",
+      "predicted_band": "100\u20131000",
+      "count": 22
+    }
+  ],
+  "density_order": [
+    "0\u20132",
+    "2\u20134",
+    "4\u20136",
+    "6\u20138",
+    "8\u201310",
+    "10\u201312",
+    "12\u201314",
+    "14\u201316",
+    "16\u201318",
+    "18\u201320",
+    "20\u201325",
+    "25\u201330",
+    "30\u201340",
+    "40\u201360",
+    "60\u2013100",
+    "100\u20131000"
+  ],
+  "holdout_segments": [
+    {
+      "state": "Andhra Pradesh",
+      "n": 821,
+      "mae": 375734.7290438494,
+      "band_coverage": 0.9037758830694276
+    },
+    {
+      "state": "Assam",
+      "n": 4,
+      "mae": 76010.42443939392,
+      "band_coverage": 1.0
+    },
+    {
+      "state": "Bihar",
+      "n": 180,
+      "mae": 145478.3656330225,
+      "band_coverage": 0.9833333333333333
+    },
+    {
+      "state": "Chandigarh",
+      "n": 2,
+      "mae": 243605.7576949261,
+      "band_coverage": 1.0
+    },
+    {
+      "state": "Chattisgarh",
+      "n": 198,
+      "mae": 263181.88958086364,
+      "band_coverage": 0.9696969696969697
+    },
+    {
+      "state": "Gujarat",
+      "n": 147,
+      "mae": 210075.64373759204,
+      "band_coverage": 0.9523809523809523
+    },
+    {
+      "state": "Haryana",
+      "n": 119,
+      "mae": 449094.54362998257,
+      "band_coverage": 0.8151260504201681
+    },
+    {
+      "state": "Jharkhand",
+      "n": 40,
+      "mae": 119148.85837805942,
+      "band_coverage": 1.0
+    },
+    {
+      "state": "Karnataka",
+      "n": 1349,
+      "mae": 462325.5298639099,
+      "band_coverage": 0.7865085248332098
+    },
+    {
+      "state": "Madhya Pradesh",
+      "n": 2670,
+      "mae": 339866.44536325993,
+      "band_coverage": 0.9232209737827716
+    },
+    {
+      "state": "Maharashtra",
+      "n": 1574,
+      "mae": 335052.8286979531,
+      "band_coverage": 0.909148665819568
+    },
+    {
+      "state": "Odisha",
+      "n": 169,
+      "mae": 361140.1389745869,
+      "band_coverage": 0.9053254437869822
+    },
+    {
+      "state": "Punjab",
+      "n": 27,
+      "mae": 685002.8396054272,
+      "band_coverage": 0.7037037037037037
+    },
+    {
+      "state": "Telangana",
+      "n": 1488,
+      "mae": 327657.27166204166,
+      "band_coverage": 0.9133064516129032
+    },
+    {
+      "state": "Uttar Pradesh",
+      "n": 646,
+      "mae": 222297.2610224599,
+      "band_coverage": 0.9613003095975232
+    },
+    {
+      "state": "West Bengal",
+      "n": 118,
+      "mae": 238370.74292232393,
+      "band_coverage": 0.9661016949152542
+    }
+  ],
+  "roc": [
+    {
+      "false_positive_rate": 0.0,
+      "true_positive_rate": 0.0
+    },
+    {
+      "false_positive_rate": 0.0015514184397163121,
+      "true_positive_rate": 0.014087301587301588
+    },
+    {
+      "false_positive_rate": 0.0026595744680851063,
+      "true_positive_rate": 0.030357142857142857
+    },
+    {
+      "false_positive_rate": 0.003324468085106383,
+      "true_positive_rate": 0.04642857142857143
+    },
+    {
+      "false_positive_rate": 0.003989361702127659,
+      "true_positive_rate": 0.0623015873015873
+    },
+    {
+      "false_positive_rate": 0.0062056737588652485,
+      "true_positive_rate": 0.07996031746031745
+    },
+    {
+      "false_positive_rate": 0.007535460992907801,
+      "true_positive_rate": 0.09623015873015874
+    },
+    {
+      "false_positive_rate": 0.008421985815602837,
+      "true_positive_rate": 0.11051587301587301
+    },
+    {
+      "false_positive_rate": 0.010416666666666666,
+      "true_positive_rate": 0.12896825396825398
+    },
+    {
+      "false_positive_rate": 0.012411347517730497,
+      "true_positive_rate": 0.14087301587301587
+    },
+    {
+      "false_positive_rate": 0.014184397163120567,
+      "true_positive_rate": 0.15079365079365079
+    },
+    {
+      "false_positive_rate": 0.018617021276595744,
+      "true_positive_rate": 0.1630952380952381
+    },
+    {
+      "false_positive_rate": 0.02171985815602837,
+      "true_positive_rate": 0.1773809523809524
+    },
+    {
+      "false_positive_rate": 0.02349290780141844,
+      "true_positive_rate": 0.1876984126984127
+    },
+    {
+      "false_positive_rate": 0.024601063829787235,
+      "true_positive_rate": 0.2005952380952381
+    },
+    {
+      "false_positive_rate": 0.026374113475177305,
+      "true_positive_rate": 0.21071428571428572
+    },
+    {
+      "false_positive_rate": 0.028147163120567375,
+      "true_positive_rate": 0.22023809523809523
+    },
+    {
+      "false_positive_rate": 0.032579787234042555,
+      "true_positive_rate": 0.23055555555555557
+    },
+    {
+      "false_positive_rate": 0.034574468085106384,
+      "true_positive_rate": 0.24484126984126983
+    },
+    {
+      "false_positive_rate": 0.0387854609929078,
+      "true_positive_rate": 0.26011904761904764
+    },
+    {
+      "false_positive_rate": 0.040780141843971635,
+      "true_positive_rate": 0.26785714285714285
+    },
+    {
+      "false_positive_rate": 0.04299645390070922,
+      "true_positive_rate": 0.2765873015873016
+    },
+    {
+      "false_positive_rate": 0.045877659574468085,
+      "true_positive_rate": 0.2833333333333333
+    },
+    {
+      "false_positive_rate": 0.047429078014184396,
+      "true_positive_rate": 0.29424603174603176
+    },
+    {
+      "false_positive_rate": 0.049423758865248225,
+      "true_positive_rate": 0.3061507936507937
+    },
+    {
+      "false_positive_rate": 0.05274822695035461,
+      "true_positive_rate": 0.3117063492063492
+    },
+    {
+      "false_positive_rate": 0.05518617021276596,
+      "true_positive_rate": 0.32162698412698415
+    },
+    {
+      "false_positive_rate": 0.05828900709219858,
+      "true_positive_rate": 0.3353174603174603
+    },
+    {
+      "false_positive_rate": 0.06006205673758865,
+      "true_positive_rate": 0.348015873015873
+    },
+    {
+      "false_positive_rate": 0.0625,
+      "true_positive_rate": 0.35873015873015873
+    },
+    {
+      "false_positive_rate": 0.06449468085106383,
+      "true_positive_rate": 0.36626984126984125
+    },
+    {
+      "false_positive_rate": 0.06671099290780141,
+      "true_positive_rate": 0.38035714285714284
+    },
+    {
+      "false_positive_rate": 0.06937056737588652,
+      "true_positive_rate": 0.3884920634920635
+    },
+    {
+      "false_positive_rate": 0.07180851063829788,
+      "true_positive_rate": 0.4011904761904762
+    },
+    {
+      "false_positive_rate": 0.07380319148936171,
+      "true_positive_rate": 0.41329365079365077
+    },
+    {
+      "false_positive_rate": 0.07601950354609929,
+      "true_positive_rate": 0.423015873015873
+    },
+    {
+      "false_positive_rate": 0.07912234042553191,
+      "true_positive_rate": 0.43273809523809526
+    },
+    {
+      "false_positive_rate": 0.0813386524822695,
+      "true_positive_rate": 0.44126984126984126
+    },
+    {
+      "false_positive_rate": 0.09153368794326242,
+      "true_positive_rate": 0.4501984126984127
+    },
+    {
+      "false_positive_rate": 0.09352836879432624,
+      "true_positive_rate": 0.460515873015873
+    },
+    {
+      "false_positive_rate": 0.09663120567375887,
+      "true_positive_rate": 0.46865079365079365
+    },
+    {
+      "false_positive_rate": 0.09995567375886524,
+      "true_positive_rate": 0.47559523809523807
+    },
+    {
+      "false_positive_rate": 0.10350177304964539,
+      "true_positive_rate": 0.48055555555555557
+    },
+    {
+      "false_positive_rate": 0.10638297872340426,
+      "true_positive_rate": 0.49702380952380953
+    },
+    {
+      "false_positive_rate": 0.10904255319148937,
+      "true_positive_rate": 0.5023809523809524
+    },
+    {
+      "false_positive_rate": 0.1125886524822695,
+      "true_positive_rate": 0.5099206349206349
+    },
+    {
+      "false_positive_rate": 0.11613475177304965,
+      "true_positive_rate": 0.5206349206349207
+    },
+    {
+      "false_positive_rate": 0.1196808510638298,
+      "true_positive_rate": 0.5275793650793651
+    },
+    {
+      "false_positive_rate": 0.12433510638297872,
+      "true_positive_rate": 0.5378968253968254
+    },
+    {
+      "false_positive_rate": 0.13009751773049646,
+      "true_positive_rate": 0.5464285714285714
+    },
+    {
+      "false_positive_rate": 0.1325354609929078,
+      "true_positive_rate": 0.5549603174603175
+    },
+    {
+      "false_positive_rate": 0.13541666666666666,
+      "true_positive_rate": 0.5626984126984127
+    },
+    {
+      "false_positive_rate": 0.13940602836879432,
+      "true_positive_rate": 0.5702380952380952
+    },
+    {
+      "false_positive_rate": 0.1453900709219858,
+      "true_positive_rate": 0.5767857142857142
+    },
+    {
+      "false_positive_rate": 0.14760638297872342,
+      "true_positive_rate": 0.5851190476190476
+    },
+    {
+      "false_positive_rate": 0.15159574468085107,
+      "true_positive_rate": 0.5908730158730159
+    },
+    {
+      "false_positive_rate": 0.15558510638297873,
+      "true_positive_rate": 0.5974206349206349
+    },
+    {
+      "false_positive_rate": 0.15913120567375885,
+      "true_positive_rate": 0.6055555555555555
+    },
+    {
+      "false_positive_rate": 0.1622340425531915,
+      "true_positive_rate": 0.6130952380952381
+    },
+    {
+      "false_positive_rate": 0.16511524822695037,
+      "true_positive_rate": 0.6178571428571429
+    },
+    {
+      "false_positive_rate": 0.16843971631205673,
+      "true_positive_rate": 0.6248015873015873
+    },
+    {
+      "false_positive_rate": 0.1739804964539007,
+      "true_positive_rate": 0.6297619047619047
+    },
+    {
+      "false_positive_rate": 0.17863475177304963,
+      "true_positive_rate": 0.6347222222222222
+    },
+    {
+      "false_positive_rate": 0.181072695035461,
+      "true_positive_rate": 0.6416666666666667
+    },
+    {
+      "false_positive_rate": 0.18661347517730498,
+      "true_positive_rate": 0.6523809523809524
+    },
+    {
+      "false_positive_rate": 0.19104609929078015,
+      "true_positive_rate": 0.6573412698412698
+    },
+    {
+      "false_positive_rate": 0.1950354609929078,
+      "true_positive_rate": 0.6666666666666666
+    },
+    {
+      "false_positive_rate": 0.19791666666666666,
+      "true_positive_rate": 0.6736111111111112
+    },
+    {
+      "false_positive_rate": 0.20234929078014185,
+      "true_positive_rate": 0.6801587301587302
+    },
+    {
+      "false_positive_rate": 0.20589539007092197,
+      "true_positive_rate": 0.685515873015873
+    },
+    {
+      "false_positive_rate": 0.2085549645390071,
+      "true_positive_rate": 0.6910714285714286
+    },
+    {
+      "false_positive_rate": 0.21320921985815602,
+      "true_positive_rate": 0.6998015873015873
+    },
+    {
+      "false_positive_rate": 0.21653368794326242,
+      "true_positive_rate": 0.7061507936507937
+    },
+    {
+      "false_positive_rate": 0.2214095744680851,
+      "true_positive_rate": 0.7103174603174603
+    },
+    {
+      "false_positive_rate": 0.22828014184397163,
+      "true_positive_rate": 0.7176587301587302
+    },
+    {
+      "false_positive_rate": 0.23803191489361702,
+      "true_positive_rate": 0.7228174603174603
+    },
+    {
+      "false_positive_rate": 0.24179964539007093,
+      "true_positive_rate": 0.7265873015873016
+    },
+    {
+      "false_positive_rate": 0.2466755319148936,
+      "true_positive_rate": 0.7307539682539682
+    },
+    {
+      "false_positive_rate": 0.2504432624113475,
+      "true_positive_rate": 0.7359126984126985
+    },
+    {
+      "false_positive_rate": 0.25310283687943264,
+      "true_positive_rate": 0.7416666666666667
+    },
+    {
+      "false_positive_rate": 0.2579787234042553,
+      "true_positive_rate": 0.7458333333333333
+    },
+    {
+      "false_positive_rate": 0.26218971631205673,
+      "true_positive_rate": 0.7557539682539682
+    },
+    {
+      "false_positive_rate": 0.26684397163120566,
+      "true_positive_rate": 0.7597222222222222
+    },
+    {
+      "false_positive_rate": 0.27282801418439717,
+      "true_positive_rate": 0.7638888888888888
+    },
+    {
+      "false_positive_rate": 0.2779255319148936,
+      "true_positive_rate": 0.7680555555555556
+    },
+    {
+      "false_positive_rate": 0.2828014184397163,
+      "true_positive_rate": 0.7726190476190476
+    },
+    {
+      "false_positive_rate": 0.287677304964539,
+      "true_positive_rate": 0.7753968253968254
+    },
+    {
+      "false_positive_rate": 0.2916666666666667,
+      "true_positive_rate": 0.7805555555555556
+    },
+    {
+      "false_positive_rate": 0.29720744680851063,
+      "true_positive_rate": 0.7851190476190476
+    },
+    {
+      "false_positive_rate": 0.30319148936170215,
+      "true_positive_rate": 0.7882936507936508
+    },
+    {
+      "false_positive_rate": 0.31006205673758863,
+      "true_positive_rate": 0.7936507936507936
+    },
+    {
+      "false_positive_rate": 0.3162677304964539,
+      "true_positive_rate": 0.7978174603174604
+    },
+    {
+      "false_positive_rate": 0.3215868794326241,
+      "true_positive_rate": 0.8033730158730159
+    },
+    {
+      "false_positive_rate": 0.3275709219858156,
+      "true_positive_rate": 0.807936507936508
+    },
+    {
+      "false_positive_rate": 0.33222517730496454,
+      "true_positive_rate": 0.8121031746031746
+    },
+    {
+      "false_positive_rate": 0.33865248226950356,
+      "true_positive_rate": 0.8174603174603174
+    },
+    {
+      "false_positive_rate": 0.34441489361702127,
+      "true_positive_rate": 0.8204365079365079
+    },
+    {
+      "false_positive_rate": 0.3508421985815603,
+      "true_positive_rate": 0.8242063492063492
+    },
+    {
+      "false_positive_rate": 0.3570478723404255,
+      "true_positive_rate": 0.8277777777777777
+    },
+    {
+      "false_positive_rate": 0.363031914893617,
+      "true_positive_rate": 0.8305555555555556
+    },
+    {
+      "false_positive_rate": 0.3690159574468085,
+      "true_positive_rate": 0.8343253968253969
+    },
+    {
+      "false_positive_rate": 0.37810283687943264,
+      "true_positive_rate": 0.8378968253968254
+    },
+    {
+      "false_positive_rate": 0.38475177304964536,
+      "true_positive_rate": 0.8420634920634921
+    },
+    {
+      "false_positive_rate": 0.39273049645390073,
+      "true_positive_rate": 0.8446428571428571
+    },
+    {
+      "false_positive_rate": 0.399822695035461,
+      "true_positive_rate": 0.848015873015873
+    },
+    {
+      "false_positive_rate": 0.4051418439716312,
+      "true_positive_rate": 0.8507936507936508
+    },
+    {
+      "false_positive_rate": 0.412677304964539,
+      "true_positive_rate": 0.8537698412698412
+    },
+    {
+      "false_positive_rate": 0.4208776595744681,
+      "true_positive_rate": 0.8569444444444444
+    },
+    {
+      "false_positive_rate": 0.42597517730496454,
+      "true_positive_rate": 0.8603174603174604
+    },
+    {
+      "false_positive_rate": 0.4321808510638298,
+      "true_positive_rate": 0.8636904761904762
+    },
+    {
+      "false_positive_rate": 0.43727836879432624,
+      "true_positive_rate": 0.8666666666666667
+    },
+    {
+      "false_positive_rate": 0.4461436170212766,
+      "true_positive_rate": 0.8698412698412699
+    },
+    {
+      "false_positive_rate": 0.45434397163120566,
+      "true_positive_rate": 0.873015873015873
+    },
+    {
+      "false_positive_rate": 0.4607712765957447,
+      "true_positive_rate": 0.8751984126984127
+    },
+    {
+      "false_positive_rate": 0.46852836879432624,
+      "true_positive_rate": 0.8775793650793651
+    },
+    {
+      "false_positive_rate": 0.475177304964539,
+      "true_positive_rate": 0.8823412698412698
+    },
+    {
+      "false_positive_rate": 0.48271276595744683,
+      "true_positive_rate": 0.8849206349206349
+    },
+    {
+      "false_positive_rate": 0.4891400709219858,
+      "true_positive_rate": 0.8884920634920634
+    },
+    {
+      "false_positive_rate": 0.4951241134751773,
+      "true_positive_rate": 0.891468253968254
+    },
+    {
+      "false_positive_rate": 0.500886524822695,
+      "true_positive_rate": 0.8946428571428572
+    },
+    {
+      "false_positive_rate": 0.5099734042553191,
+      "true_positive_rate": 0.8992063492063492
+    },
+    {
+      "false_positive_rate": 0.5161790780141844,
+      "true_positive_rate": 0.9029761904761905
+    },
+    {
+      "false_positive_rate": 0.5197251773049646,
+      "true_positive_rate": 0.9077380952380952
+    },
+    {
+      "false_positive_rate": 0.5241578014184397,
+      "true_positive_rate": 0.9113095238095238
+    },
+    {
+      "false_positive_rate": 0.5323581560283688,
+      "true_positive_rate": 0.9152777777777777
+    },
+    {
+      "false_positive_rate": 0.5401152482269503,
+      "true_positive_rate": 0.9188492063492063
+    },
+    {
+      "false_positive_rate": 0.5467641843971631,
+      "true_positive_rate": 0.9218253968253968
+    },
+    {
+      "false_positive_rate": 0.5525265957446809,
+      "true_positive_rate": 0.9251984126984127
+    },
+    {
+      "false_positive_rate": 0.5602836879432624,
+      "true_positive_rate": 0.9281746031746032
+    },
+    {
+      "false_positive_rate": 0.5664893617021277,
+      "true_positive_rate": 0.9307539682539683
+    },
+    {
+      "false_positive_rate": 0.5780141843971631,
+      "true_positive_rate": 0.932936507936508
+    },
+    {
+      "false_positive_rate": 0.5857712765957447,
+      "true_positive_rate": 0.9357142857142857
+    },
+    {
+      "false_positive_rate": 0.59552304964539,
+      "true_positive_rate": 0.9388888888888889
+    },
+    {
+      "false_positive_rate": 0.6037234042553191,
+      "true_positive_rate": 0.9418650793650793
+    },
+    {
+      "false_positive_rate": 0.6123670212765957,
+      "true_positive_rate": 0.944047619047619
+    },
+    {
+      "false_positive_rate": 0.6196808510638298,
+      "true_positive_rate": 0.95
+    },
+    {
+      "false_positive_rate": 0.6278812056737588,
+      "true_positive_rate": 0.9529761904761904
+    },
+    {
+      "false_positive_rate": 0.6409574468085106,
+      "true_positive_rate": 0.9551587301587302
+    },
+    {
+      "false_positive_rate": 0.6524822695035462,
+      "true_positive_rate": 0.9569444444444445
+    },
+    {
+      "false_positive_rate": 0.6631205673758865,
+      "true_positive_rate": 0.9621031746031746
+    },
+    {
+      "false_positive_rate": 0.680186170212766,
+      "true_positive_rate": 0.9638888888888889
+    },
+    {
+      "false_positive_rate": 0.68927304964539,
+      "true_positive_rate": 0.9656746031746032
+    },
+    {
+      "false_positive_rate": 0.7014627659574468,
+      "true_positive_rate": 0.9676587301587302
+    },
+    {
+      "false_positive_rate": 0.7176418439716312,
+      "true_positive_rate": 0.968452380952381
+    },
+    {
+      "false_positive_rate": 0.7280585106382979,
+      "true_positive_rate": 0.9702380952380952
+    },
+    {
+      "false_positive_rate": 0.7431294326241135,
+      "true_positive_rate": 0.9734126984126984
+    },
+    {
+      "false_positive_rate": 0.755540780141844,
+      "true_positive_rate": 0.9755952380952381
+    },
+    {
+      "false_positive_rate": 0.7706117021276596,
+      "true_positive_rate": 0.977579365079365
+    },
+    {
+      "false_positive_rate": 0.787677304964539,
+      "true_positive_rate": 0.979563492063492
+    },
+    {
+      "false_positive_rate": 0.7983156028368794,
+      "true_positive_rate": 0.9819444444444444
+    },
+    {
+      "false_positive_rate": 0.8109485815602837,
+      "true_positive_rate": 0.9839285714285714
+    },
+    {
+      "false_positive_rate": 0.8251329787234043,
+      "true_positive_rate": 0.9855158730158731
+    },
+    {
+      "false_positive_rate": 0.8464095744680851,
+      "true_positive_rate": 0.9876984126984127
+    },
+    {
+      "false_positive_rate": 0.8594858156028369,
+      "true_positive_rate": 0.9892857142857143
+    },
+    {
+      "false_positive_rate": 0.8871897163120568,
+      "true_positive_rate": 0.9910714285714286
+    },
+    {
+      "false_positive_rate": 0.9033687943262412,
+      "true_positive_rate": 0.9932539682539683
+    },
+    {
+      "false_positive_rate": 0.9175531914893617,
+      "true_positive_rate": 0.9968253968253968
+    },
+    {
+      "false_positive_rate": 0.9390514184397163,
+      "true_positive_rate": 0.9986111111111111
+    },
+    {
+      "false_positive_rate": 0.9601063829787234,
+      "true_positive_rate": 0.9992063492063492
+    },
+    {
+      "false_positive_rate": 1.0,
+      "true_positive_rate": 1.0
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "project": "ABC Limited Farmer Income Lab",
+  "seed": 42,
+  "created_utc": "2026-09-27",
+  "target": "Target_Variable/Total Income",
+  "currency": "INR",
+  "income_period": "Not specified in supplied dictionary",
+  "land_unit": "Not specified for Total_Land_For_Agriculture in supplied dictionary",
+  "original_labeled_rows": 47970,
+  "deduplicated_rows": 47948,
+  "removed_duplicate_loan_ids": 22,
+  "unlabeled_rows": 9986,
+  "original_column_count": 105,
+  "states": [
+    "ANDHRA PRADESH",
+    "ASSAM",
+    "BIHAR",
+    "CHANDIGARH",
+    "CHATTISGARH",
+    "GUJARAT",
+    "HARYANA",
+    "JHARKHAND",
+    "KARNATAKA",
+    "MADHYA PRADESH",
+    "MAHARASHTRA",
+    "ODISHA",
+    "PUNJAB",
+    "RAJASTHAN",
+    "TELANGANA",
+    "UTTAR PRADESH",
+    "WEST BENGAL"
+  ],
+  "common_states": [
+    "ANDHRA PRADESH",
+    "BIHAR",
+    "CHATTISGARH",
+    "GUJARAT",
+    "HARYANA",
+    "JHARKHAND",
+    "KARNATAKA",
+    "MADHYA PRADESH",
+    "MAHARASHTRA",
+    "ODISHA",
+    "PUNJAB",
+    "TELANGANA",
+    "UTTAR PRADESH",
+    "WEST BENGAL"
+  ],
+  "split": {
+    "train": {
+      "records": 28591,
+      "villages": 6837
+    },
+    "validation": {
+      "records": 9805,
+      "villages": 2279
+    },
+    "holdout": {
+      "records": 9552,
+      "villages": 2280
+    }
+  },
+  "benchmark_inr": 950000.0,
+  "probability_threshold": 0.5,
+  "logistic_candidates": [
+    {
+      "C": 0.01,
+      "validation_roc_auc": 0.7857590801640332
+    },
+    {
+      "C": 0.1,
+      "validation_roc_auc": 0.7903429117535012
+    },
+    {
+      "C": 1,
+      "validation_roc_auc": 0.7886670065920047
+    },
+    {
+      "C": 10,
+      "validation_roc_auc": 0.7883603746270206
+    }
+  ],
+  "selected_C": 0.1,
+  "linear_validation": {
+    "mae": 356957.77537081396,
+    "rmse": 697207.3860105494,
+    "r2": 0.9008499736417062,
+    "median_absolute_error": 238397.007422977,
+    "mape_pct": 31.535631023723234
+  },
+  "linear_holdout": {
+    "mae": 342751.48349215125,
+    "rmse": 663650.252204556,
+    "r2": 0.8828883366871995,
+    "median_absolute_error": 232605.4114105692,
+    "mape_pct": 32.14264044516156
+  },
+  "baseline_mean_holdout": {
+    "mae": 566999.1090244733,
+    "rmse": 1940232.195074531,
+    "r2": -0.0009883780494426286,
+    "median_absolute_error": 438012.0145150572,
+    "mape_pct": 55.95646426900293
+  },
+  "baseline_median_holdout": {
+    "mae": 484422.76402847574,
+    "rmse": 1952519.643036333,
+    "r2": -0.013706999214638138,
+    "median_absolute_error": 250000.0,
+    "mape_pct": 36.64927460286056
+  },
+  "known_component_baseline_holdout": {
+    "mae": 386441.5158082077,
+    "rmse": 751978.0941985536,
+    "r2": 0.8496401096129453,
+    "median_absolute_error": 240000.0,
+    "mape_pct": 34.996648270176294
+  },
+  "without_non_ag_income_holdout": {
+    "mae": 509589.29524589825,
+    "rmse": 1926021.102701935,
+    "r2": 0.013621257678397058,
+    "median_absolute_error": 355280.51644285256,
+    "mape_pct": 47.281134668286214
+  },
+  "logistic_holdout": {
+    "accuracy": 0.7456030150753769,
+    "precision": 0.750095822154082,
+    "recall": 0.7765873015873016,
+    "f1": 0.7631117176837591,
+    "roc_auc": 0.8148603723404255,
+    "brier": 0.1772449576230762,
+    "confusion_matrix": [
+      [
+        3208,
+        1304
+      ],
+      [
+        1126,
+        3914
+      ]
+    ]
+  },
+  "logistic_validation": {
+    "accuracy": 0.7175930647628761,
+    "precision": 0.7120368592820119,
+    "recall": 0.7450783447167537,
+    "f1": 0.7281829783056837,
+    "roc_auc": 0.7903429117535012,
+    "brier": 0.18758194259669422,
+    "confusion_matrix": [
+      [
+        3327,
+        1500
+      ],
+      [
+        1269,
+        3709
+      ]
+    ]
+  },
+  "majority_baseline_accuracy": 0.4723618090452261,
+  "error_band_radius": 687297.4459330065,
+  "error_band_validation_target": 0.9,
+  "error_band_holdout_coverage": 0.9021147403685092,
+  "schema": {
+    "land_area": {
+      "min": 0.0,
+      "max": 151.0,
+      "median": 10.0,
+      "p01": 2.0,
+      "p99": 35.0,
+      "missing_train": 39
+    },
+    "non_ag_income": {
+      "min": 0.0,
+      "max": 69984000.0,
+      "median": 100000.0,
+      "p01": 0.0,
+      "p99": 2006279.9999999376,
+      "missing_train": 0
+    },
+    "mandi_distance": {
+      "min": 0.0,
+      "max": 43.9,
+      "median": 10.7,
+      "p01": 0.0,
+      "p99": 33.3,
+      "missing_train": 0
+    },
+    "kharif_rainfall": {
+      "min": 530.37,
+      "max": 2529.63,
+      "median": 1377.46,
+      "p01": 648.19,
+      "p99": 2395.78,
+      "missing_train": 0
+    },
+    "rabi_rainfall": {
+      "min": 17.49,
+      "max": 678.15,
+      "median": 101.78,
+      "p01": 22.89,
+      "p99": 479.91,
+      "missing_train": 0
+    },
+    "cropping_density": {
+      "min": 0.0,
+      "max": 96.35,
+      "median": 58.06,
+      "p01": 11.07,
+      "p99": 92.54,
+      "missing_train": 0
+    },
+    "agri_score": {
+      "min": 0.72,
+      "max": 55.59,
+      "median": 26.85,
+      "p01": 6.992000000000003,
+      "p99": 47.54,
+      "missing_train": 0
+    }
+  },
+  "versions": {
+    "python": "3.12.14",
+    "scikit_learn": "1.8.0",
+    "numpy": "2.3.5",
+    "pandas": "2.2.3"
+  },
+  "source_sha256": {
+    "lte_train.csv": "cff15306aa466f2814a8a9fffcb76f71f35830972f94040265511d91cb5899f6",
+    "lte_test.csv": "813af2a24c57e0112781d0d400a0a82627f88c7e20a65bebb48ad2ba423fc6b5"
+  },
+  "train_target_p99": 6495859.9999999935
+}
