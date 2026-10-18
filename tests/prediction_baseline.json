@@ -1,0 +1,75 @@
+{
+  "description": "Captured from the unmodified repository before the redesign; three source sample profiles, original trained artifacts.",
+  "artifact_sha256": {
+    "model_bundle.joblib": "44f804c3b0881ed4404ce8b50c4815d41e30a108c0dea95a84dc98443bebbbe5",
+    "metrics.json": "7185a2efbb2a151a616d7e6573e889781869e8e327b4c810e5b7eeb47dc61021",
+    "sample_batch.csv": "7c7a6c87d2437f33fa6f0fda514d0271294bfbfab69fa436ed198df348ae1739"
+  },
+  "inputs": [
+    {
+      "state": "MADHYA PRADESH",
+      "land_area": 6.0,
+      "non_ag_income": 60000.0,
+      "mandi_distance": 11.6,
+      "kharif_rainfall": 1553.35,
+      "rabi_rainfall": 101.44,
+      "cropping_density": 62.88,
+      "agri_score": 29.67
+    },
+    {
+      "state": "MAHARASHTRA",
+      "land_area": 10.0,
+      "non_ag_income": 100000.0,
+      "mandi_distance": 11.7,
+      "kharif_rainfall": 1449.69,
+      "rabi_rainfall": 64.33,
+      "cropping_density": 55.37,
+      "agri_score": 27.18
+    },
+    {
+      "state": "KARNATAKA",
+      "land_area": 9.6,
+      "non_ag_income": 160000.0,
+      "mandi_distance": 11.6,
+      "kharif_rainfall": 1031.34,
+      "rabi_rainfall": 340.98,
+      "cropping_density": 56.56,
+      "agri_score": 21.25
+    }
+  ],
+  "predictions": [
+    {
+      "predicted_total_income_inr": 755403.2753825553,
+      "range_low_inr": 68105.82944954885,
+      "range_high_inr": 1442700.7213155618,
+      "probability_below_benchmark": 0.7819450792223129,
+      "predicted_below_benchmark": 1,
+      "raw_linear_prediction_inr": 755403.2753825553,
+      "below_known_non_ag_income": false
+    },
+    {
+      "predicted_total_income_inr": 1074961.4397740634,
+      "range_low_inr": 387663.99384105694,
+      "range_high_inr": 1762258.88570707,
+      "probability_below_benchmark": 0.4510291604377667,
+      "predicted_below_benchmark": 0,
+      "raw_linear_prediction_inr": 1074961.4397740634,
+      "below_known_non_ag_income": false
+    },
+    {
+      "predicted_total_income_inr": 1320055.059467764,
+      "range_low_inr": 632757.6135347576,
+      "range_high_inr": 2007352.5054007706,
+      "probability_below_benchmark": 0.21920823116053462,
+      "predicted_below_benchmark": 0,
+      "raw_linear_prediction_inr": 1320055.059467764,
+      "below_known_non_ag_income": false
+    }
+  ],
+  "versions": {
+    "python": "3.12.14",
+    "scikit_learn": "1.8.0",
+    "numpy": "2.3.5",
+    "pandas": "2.2.3"
+  }
+}
